@@ -1,0 +1,5 @@
+Language: C++
+This assignment implements your own malloc( ) and free( ) using the “sbrk” system function: change data segment 
+size. Your implementation is based on the first-fit and the best-fit strategies. Since the original malloc/free functions 
+in  Linux  use  “brk”  (an  even  more  legacy  function  than  sbrk),  you  can  compare  your  own  and  the  Linux-original 
+implementations in terms of # brk system function calls. (The few calls the better memory allocations.) 
