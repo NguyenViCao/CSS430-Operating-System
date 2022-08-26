@@ -1,0 +1,3 @@
+Language: C++
+This  assignment  solves  the  dining  philosophers  problem,  using  the  pthread  library.  You  will  exercise  how  to  use: 
+pthread_mutex_init/lock/unlock and pthread_cond_init/wait/signal to implement a monitor. 
