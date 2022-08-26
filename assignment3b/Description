@@ -1,0 +1,6 @@
+Language: JAVA
+This assignment exercises an implementation of Java monitors. While the original Java monitors have only an 
+ability  of  randomly  waking  up  one  or  all  sleeping  threads, the  implementation  of  Java  monitor  in  this 
+assignment  allows  threads  to  sleep on  and  wake  up  from  a  different  condition  specified  as  an  integer.  Using 
+this special monitor in SynchQueue.java, you will implement SysLib.wait( ) and SysLib.exit( ) system calls, with 
+which a parent thread can wait for one of its child threads to be terminated. 
