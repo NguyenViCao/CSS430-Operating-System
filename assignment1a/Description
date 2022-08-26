@@ -1,0 +1,4 @@
+Language: C++
+This  assignment  is  designed  to  introduce  how  to  manage  processes:  creating  a  child  process,  executing  a  new program  in  the
+child  process,  communicating  with  it,  remapping  this  communication  channel  to  a  different  file descriptor, and waiting for the 
+child to finish. Each operation is performed with fork, execlp, pipe, dup2, and wait, respectively. 
