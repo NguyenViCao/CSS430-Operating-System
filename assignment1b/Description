@@ -1,0 +1,4 @@
+Language: JAVA
+This  assignment  is  designed  to  help  you  understand  that,  from  the  kernel’s  viewpoint,  the  shell  is  simply  an 
+application  program  that  uses  system  calls  to  spawn  and  to  terminate  other  user  programs.  You  will  also  get 
+familiar with our ThreadOS operating system simulator through the assignment. 
